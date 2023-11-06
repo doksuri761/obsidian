@@ -1,0 +1,11 @@
+{
+  "discordian-plugin:toggle-flat-andy-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}

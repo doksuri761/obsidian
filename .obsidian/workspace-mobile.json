@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b91a2684eb5a25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동아리 자율주행 차량 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pyr.md",
+            "file": "동아리 자율주행 차량 Summary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pyr.md",
+            "file": "동아리 자율주행 차량 Summary.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pyr.md"
+            "file": "동아리 자율주행 차량 Summary.md"
           }
         }
       },
@@ -153,6 +166,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc0fadb66f03de16",
-  "lastOpenFiles": []
+  "active": "6b91a2684eb5a25d",
+  "lastOpenFiles": [
+    "pyr.md",
+    "동아리 자율주행 차량 Summary.md"
+  ]
 }

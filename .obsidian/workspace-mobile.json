@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동아리 자율주행 차량 Summary.md",
+                "file": "동아리 자율 주행 차량 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "동아리 자율주행 차량 Summary.md",
+            "file": "동아리 자율 주행 차량 Summary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "동아리 자율주행 차량 Summary.md",
+            "file": "동아리 자율 주행 차량 Summary.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "동아리 자율주행 차량 Summary.md"
+            "file": "동아리 자율 주행 차량 Summary.md"
           }
         }
       },
@@ -169,6 +169,6 @@
   "active": "6b91a2684eb5a25d",
   "lastOpenFiles": [
     "pyr.md",
-    "동아리 자율주행 차량 Summary.md"
+    "동아리 자율 주행 차량 Summary.md"
   ]
 }

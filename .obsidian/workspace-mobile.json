@@ -54,9 +54,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b8b01974fef1e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24-03-27 동아리 강의요강.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd58d3512496f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24-04-02 동아리 강의요강.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "675d90a7bb6cf1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24-05-22 동아리 강의요강.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "426b81ba03488ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADC - Diff. P. Bits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024 컴파일러 운영요강.md",
+            "file": "ADC - Diff. P. Bits.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024 컴파일러 운영요강.md",
+            "file": "ADC - Diff. P. Bits.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024 컴파일러 운영요강.md"
+            "file": "ADC - Diff. P. Bits.md"
           }
         }
       },
@@ -192,10 +240,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd74bcf80c4fad6c",
+  "active": "426b81ba03488ca7",
   "lastOpenFiles": [
-    "동아리 면담일지.md",
+    "24-05-22 동아리 강의요강.md",
+    "ADC - Diff. P. Bits.md",
+    "24-04-02 동아리 강의요강.md",
+    "24-03-27 동아리 강의요강.md",
     "2024 컴파일러 운영요강.md",
+    "동아리 면담일지.md",
     "동아리 자율 주행 차량 Summary.md",
     "pyr.md"
   ]

@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9321ce532a64b939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md"
+            "file": "Untitled.md"
           }
         }
       },
@@ -228,12 +240,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "675d90a7bb6cf1f8",
+  "active": "9321ce532a64b939",
   "lastOpenFiles": [
-    "ADC - Diff. P. Bits.md",
     "달빛을 자를 수 있는가.md",
-    "동아리 면담일지.md",
+    "Untitled.md",
     "24-05-22 동아리 강의요강.md",
+    "ADC - Diff. P. Bits.md",
+    "동아리 면담일지.md",
     "24-04-02 동아리 강의요강.md",
     "24-03-27 동아리 강의요강.md",
     "2024 컴파일러 운영요강.md",

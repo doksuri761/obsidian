@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "달빛을 자를 수 있는가.md",
+            "file": "24-05-22 동아리 강의요강.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "달빛을 자를 수 있는가.md",
+            "file": "24-05-22 동아리 강의요강.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "달빛을 자를 수 있는가.md"
+            "file": "24-05-22 동아리 강의요강.md"
           }
         }
       },
@@ -240,12 +240,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a774d15c726d5d6",
+  "active": "675d90a7bb6cf1f8",
   "lastOpenFiles": [
-    "Main.exe Decompile Report.md",
-    "달빛을 자를 수 있는가.md",
-    "24-05-22 동아리 강의요강.md",
     "ADC - Diff. P. Bits.md",
+    "달빛을 자를 수 있는가.md",
+    "집가고싶다.txt.md",
+    "Main.exe Decompile Report.md",
+    "24-05-22 동아리 강의요강.md",
     "동아리 면담일지.md",
     "24-04-02 동아리 강의요강.md",
     "24-03-27 동아리 강의요강.md",

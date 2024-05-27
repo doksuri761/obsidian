@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "1fe3baaa5f3c7a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "야자타임 Srv 개발계획서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "426b81ba03488ca7",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md",
+            "file": "야자타임 Srv 개발계획서.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md",
+            "file": "야자타임 Srv 개발계획서.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +223,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "24-05-22 동아리 강의요강.md"
+            "file": "야자타임 Srv 개발계획서.md"
           }
         }
       },
@@ -240,13 +252,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "675d90a7bb6cf1f8",
+  "active": "1fe3baaa5f3c7a1c",
   "lastOpenFiles": [
+    "24-05-22 동아리 강의요강.md",
+    "야자타임 Srv 개발계획서.md",
     "ADC - Diff. P. Bits.md",
     "달빛을 자를 수 있는가.md",
     "집가고싶다.txt.md",
     "Main.exe Decompile Report.md",
-    "24-05-22 동아리 강의요강.md",
     "동아리 면담일지.md",
     "24-04-02 동아리 강의요강.md",
     "24-03-27 동아리 강의요강.md",

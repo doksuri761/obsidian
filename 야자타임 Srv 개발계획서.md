@@ -8,4 +8,6 @@
 ### File Structure:
 - Router.py
 	- Requests 검증, 유저 로그인 여부 확인 -> MiddleWare 개발
-	- 미 로그인 or 
+	- 미 로그인 or 허용되지 않은 토큰 확인시 401 or 404 리턴
+- Auth.py
+	- 로그인 / 
